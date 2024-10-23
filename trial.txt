@@ -1,0 +1,6 @@
+Id, Age, City
+123, 25, New York
+157, 30, Los Angeles
+168, 22, Chicago
+190, 23, New York
+200, 35, Tokyo 
